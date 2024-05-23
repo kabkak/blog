@@ -9,6 +9,10 @@ links:
     description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
     website: https://www.typescriptlang.org
     image: ts-logo-128.jpg
+  - title: 一小池勺
+    description: 仅次于我的帅哥
+    website: https://www.typescriptlang.org
+    image: zrm.jpg
 menu:
     main: 
         weight: -50
@@ -22,5 +26,6 @@ comments: false
 links:
   - title: GitHub
   - title: TypeScript
-   ```
+  - title: 一小池勺
+```
 

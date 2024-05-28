@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on JiangYing&#39;s Blog</title>
-        <link>http://localhost:1313/post/</link>
-        <description>Recent content in Posts on JiangYing&#39;s Blog</description>
+        <title>学习 on JiangYing&#39;s Blog</title>
+        <link>http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0/</link>
+        <description>Recent content in 学习 on JiangYing&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>JiangYing</copyright>
-        <lastBuildDate>Tue, 28 May 2024 15:44:17 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2024 15:44:17 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Xxl Job</title>
         <link>http://localhost:1313/p/xxl-job/</link>
         <pubDate>Tue, 28 May 2024 15:44:17 +0800</pubDate>
@@ -646,18 +646,6 @@
 	
 &gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>起源</title>
-        <link>http://localhost:1313/p/%E5%BC%80%E5%A7%8B/</link>
-        <pubDate>Thu, 23 May 2024 17:24:46 +0800</pubDate>
-        
-        <guid>http://localhost:1313/p/%E5%BC%80%E5%A7%8B/</guid>
-        <description>&lt;img src="http://localhost:1313/post/img/wallhaven-o5dj1p.jpg" alt="Featured image of post 起源" /&gt;&lt;h2 id=&#34;缘起&#34;&gt;&lt;em&gt;🙃缘起:&lt;/em&gt;
-&lt;/h2&gt;&lt;p&gt;看了大佬博客界面简洁优美 十分羡慕! 于是便花费两年半(天)的时间 ,我也模仿了大佬的博客.&lt;/p&gt;
-&lt;h2 id=&#34;hugo博客搭建&#34;&gt;🎊Hugo博客搭建
-&lt;/h2&gt;&lt;p&gt;😅在途中我把能踩的坑都踩了 最后还是完成了,果然坚持就是胜利,哈哈哈哈; 在编写这个过程,我发现了我之前破解Typora不能直接打开md文件这个缺点超级明显!! 今天晚上就给删了重新下.&lt;/p&gt;
 </description>
         </item>
         

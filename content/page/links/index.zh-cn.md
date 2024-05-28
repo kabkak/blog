@@ -11,7 +11,7 @@ links:
     image: ts-logo-128.jpg
   - title: 一小池勺
     description: 仅次于我的帅哥
-    website: https://www.typescriptlang.org
+    website: gotozrm.top
     image: zrm.jpg
 menu:
     main: 

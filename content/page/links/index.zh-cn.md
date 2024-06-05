@@ -11,7 +11,7 @@ links:
     image: ts-logo-128.jpg
   - title: 一小池勺
     description: 仅次于我的帅哥
-    website: gotozrm.top
+    website: https://gotozrm.top
     image: zrm.jpg
   - title: 西行寺岩羊
     description: 一位卷卷🐏

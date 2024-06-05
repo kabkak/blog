@@ -13,6 +13,10 @@ links:
     description: 仅次于我的帅哥
     website: gotozrm.top
     image: zrm.jpg
+  - title: 西行寺岩羊
+    description: 一位卷卷🐏
+    website: https://zheep1209.github.io/#/
+    image: https://github.com/zheep1209/zheep1209.github.io/blob/master/assets/%E5%A4%B4%E5%83%8F-r-hAQAc1.jpg
 menu:
     main: 
         weight: -50
@@ -26,6 +30,5 @@ comments: false
 links:
   - title: GitHub
   - title: TypeScript
-  - title: 一小池勺
 ```
 
